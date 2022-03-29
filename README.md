@@ -7,11 +7,11 @@
 
 I'm a FinTech analyst, a certified Financial Educator and a high school Econ teacher.
 
-I help businesses design their corporate and development strategies. My research interests include programming for finance, data analytics and innovation in financial education. 
+I help businesses design their corporate and development **strategies**. My research interests include programming for finance, data analytics and innovation in financial education. 
 
 In my spare time, I talk about fintech on [Consizos.com](www.consizos.com), speak at conferences and contribute to free financial education. 
 
-I'm passionate about :snake: Python programming, as well as new ways of educating and empowering people. I think anyone can learn to improve its financial life all it takes is get back into the game.
+I'm passionate about :snake: Python programming, as well as new ways of educating and **empowering** people. I think anyone can learn to improve its financial life all it takes is get back into the game.
 
 >It's never too late to climb the grease pole and start learning.
 
